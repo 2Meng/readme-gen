@@ -22,8 +22,6 @@ This project is licensed under the MIT license.
 
 * [Contributors](#contributors)
 
-* [Test](#test)
-
 ## Contributors
 
 Toumeng
